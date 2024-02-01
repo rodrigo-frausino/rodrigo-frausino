@@ -1,12 +1,11 @@
-<!--
-**rodrigo-frausino/rodrigo-frausino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 ### Rodrigo Frausino
 
 - 🔭 Mathematician in a career change into Data Science and Data analytics.
 - 📫 My personal [email](rodrigofrausino6@gmail.com)
 
-## Technologies I have experience with 👨‍💻
+## Technologies I have knowledge in 📖
 
 ![Static Badge](https://img.shields.io/badge/infra-black?style=for-the-badge)
 [![Linux Static Badge](https://img.shields.io/badge/linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
@@ -18,4 +17,5 @@
 <br>
 ![Static Badge](https://img.shields.io/badge/back-black?style=for-the-badge)
 [![Python Static Badge](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)]()
-<br>
+[![SQL Static Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
+

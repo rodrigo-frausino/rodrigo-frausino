@@ -17,5 +17,5 @@
 <br>
 ![Static Badge](https://img.shields.io/badge/back-black?style=for-the-badge)
 [![Python Static Badge](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)]()
-[![SQL Static Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
+[![SQL Static Badge](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)]()
 

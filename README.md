@@ -2,7 +2,7 @@
 
 ### Rodrigo Frausino
 
-- 🔭 Mathematician in a career change into Data Science.
+- 🔭 Physicist---> Mathematician--(In process)--> Data Scientist.
 - 📫 My personal [email](rodrigofrausino6@gmail.com)
 
 ## Technologies I have knowledge in 📖

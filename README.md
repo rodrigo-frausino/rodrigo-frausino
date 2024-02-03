@@ -18,4 +18,9 @@
 ![Static Badge](https://img.shields.io/badge/back-black?style=for-the-badge)
 [![Python Static Badge](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)]()
 [![SQL Static Badge](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)]()
+<br>
+![VIZ](https://img.shields.io/badge/VIZ-black?style=for-the-badge)
+![MATPLOTLIB](https://img.shields.io/badge/MATPLOTLIB-blue?style=for-the-badge&logo=python&logoColor=white)
+![SEABORN](https://img.shields.io/badge/SEABORN-blue?style=for-the-badge&logo=python&logoColor=white)
+
 

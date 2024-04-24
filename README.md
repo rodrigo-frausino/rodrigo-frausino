@@ -2,7 +2,7 @@
 
 ### Rodrigo Frausino
 
-- 🔭 Physicist---> Mathematician--(In process)-->Data Science.
+- 🔭 Physicist---> Mathematician--(In process)-->Data Scientist.
 - 📫 My personal [email](rodrigofrausino@proton.me)
 
 ## Technologies I have knowledge in 📖
